@@ -1,0 +1,28 @@
+name: Life By Soul
+favicon: null
+layout_spectrum: 0.48654849105514586
+typography_spectrum: 0.7136431962717324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4484133212827146
+  lightness: 0.9955318493302912
+  saturation: 0.42964116181246936
+  rhythmicContrast: 0.8419787646271288
+purpose: []
